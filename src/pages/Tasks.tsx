@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import type { FilterOptions, Priority, TaskCategory, Task } from '../types/task.types';
+import type { FilterOptions, Priority, TaskCategory, Task, TaskFormData } from '../types/task.types';
 import Layout from '../components/layout/Layout';
 import MobilePageHeader from '../components/layout/MobilePageHeader';
 import Card from '../components/common/Card';

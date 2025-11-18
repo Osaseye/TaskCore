@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from '../components/layout/Layout';
 import MobilePageHeader from '../components/layout/MobilePageHeader';
 import Card from '../components/common/Card';
-import { CheckCircleIcon, ClockIcon, AlertIcon } from '../common/Icons';
+import { CheckCircleIcon, ClockIcon, AlertIcon } from '../components/common/Icons';
 import { useNotifications } from '../hooks/useNotifications';
 
 const Notifications: React.FC = () => {
